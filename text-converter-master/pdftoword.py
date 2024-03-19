@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Created by xiaoqin00 on 2017/6/26
 
 #pdf 转为word,没有找到pdf直接转换为word的方法，就先转为txt，然后转换为word
 
